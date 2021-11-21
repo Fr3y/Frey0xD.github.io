@@ -8,7 +8,7 @@
     font-weight:300;
     line-height:1.2;
     font-size:14px;
-    background:rgb(72, 95, 223);
+    background:rgb(49, 202, 10);
     }
     main {
     width:100%;
@@ -144,21 +144,21 @@
       font-size:1rem;
      }
      .btn1 {
-      background:#dff800;
-      color:rgb(55, 0, 253);
+      background:#0f0f0f;
+      color:rgb(5, 199, 31);
      }
      .btn2 {
-         background: #dff800;
-      color:#001aff;
+         background: #000000;
+      color:#03c00c;
       border:1px solid #ffc0cb;
      }
      .btn1:hover {
-      background:rgb(0, 60, 255);
+      background:rgb(24, 192, 1);
       color:#ffc0cb;
       border:1px solid #ffc0cb;
      }
      .btn2:hover {
-      background:#1100fa;
+      background:#11b302;
       color:#fff;
      }
      .about {
